@@ -113,13 +113,8 @@ namespace BookManager
         }
     }
 }
-
-
-
-        
-
     
-
+    
 
     public class Book
     {
